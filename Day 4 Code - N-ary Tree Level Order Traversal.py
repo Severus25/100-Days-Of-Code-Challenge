@@ -1,4 +1,4 @@
-class Solution:  # 48 ms, faster than 87.27
+class Solution: 
     def levelOrder(self, root: 'Node') -> List[List[int]]:
         if root == None: return []
         q = deque([root])
