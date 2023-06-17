@@ -1,3 +1,7 @@
+// Problem Statement:
+// https://leetcode.com/problems/equal-row-and-column-pairs/
+
+// Problem Solution:
 class Solution {
 public:
     int equalPairs(vector<vector<int>>& v) {
