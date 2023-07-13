@@ -1,3 +1,7 @@
+// Problem Statement:
+// https://leetcode.com/problems/bag-of-tokens
+
+// Problem Solution:
 class Solution {
 public:
     int bagOfTokensScore(vector<int>& arr, int power) {
